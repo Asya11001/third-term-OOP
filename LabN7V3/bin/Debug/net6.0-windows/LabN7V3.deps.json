@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LabN7V3/1.0.0": {
+        "runtime": {
+          "LabN7V3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabN7V3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

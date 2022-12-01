@@ -1,0 +1,17 @@
+D:\RiderProjects\Labs\LabN7V3\obj\Debug\net6.0-windows\LabN7V3.csproj.AssemblyReference.cache
+D:\RiderProjects\Labs\LabN7V3\obj\Debug\net6.0-windows\LabN7V3.Form1.resources
+D:\RiderProjects\Labs\LabN7V3\obj\Debug\net6.0-windows\LabN7V3.csproj.GenerateResource.cache
+D:\RiderProjects\Labs\LabN7V3\obj\Debug\net6.0-windows\LabN7V3.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\Labs\LabN7V3\obj\Debug\net6.0-windows\LabN7V3.AssemblyInfoInputs.cache
+D:\RiderProjects\Labs\LabN7V3\obj\Debug\net6.0-windows\LabN7V3.AssemblyInfo.cs
+D:\RiderProjects\Labs\LabN7V3\obj\Debug\net6.0-windows\LabN7V3.csproj.CoreCompileInputs.cache
+D:\RiderProjects\Labs\LabN7V3\bin\Debug\net6.0-windows\LabN7V3.exe
+D:\RiderProjects\Labs\LabN7V3\bin\Debug\net6.0-windows\LabN7V3.deps.json
+D:\RiderProjects\Labs\LabN7V3\bin\Debug\net6.0-windows\LabN7V3.runtimeconfig.json
+D:\RiderProjects\Labs\LabN7V3\bin\Debug\net6.0-windows\LabN7V3.dll
+D:\RiderProjects\Labs\LabN7V3\bin\Debug\net6.0-windows\LabN7V3.pdb
+D:\RiderProjects\Labs\LabN7V3\obj\Debug\net6.0-windows\LabN7V3.dll
+D:\RiderProjects\Labs\LabN7V3\obj\Debug\net6.0-windows\refint\LabN7V3.dll
+D:\RiderProjects\Labs\LabN7V3\obj\Debug\net6.0-windows\LabN7V3.pdb
+D:\RiderProjects\Labs\LabN7V3\obj\Debug\net6.0-windows\LabN7V3.genruntimeconfig.cache
+D:\RiderProjects\Labs\LabN7V3\obj\Debug\net6.0-windows\ref\LabN7V3.dll
